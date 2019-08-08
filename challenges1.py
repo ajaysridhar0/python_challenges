@@ -60,5 +60,5 @@ print(reverseString("tomato"))
 # Output: the number of the positions where the two strings contain the same length 2 substring.
 # So "xxcaazz" and "xxbaaz" yields 3, since the "xx", "aa", and "az" substrings appear in the same place in both strings.
 
-def def stringMatch(a, b):
+def stringMatch(a, b):
     # write code
