@@ -10,7 +10,7 @@ def fibonacci(n):
 
 # Problem 2
 # Input: Integer n
-# Output: The sum of all integers less then n that are divisible by 3 and 5
+# Output: The sum of all integers less then n that are divisible by 3 or 5
 
 def threeFiveSum(n):
     # write code here
